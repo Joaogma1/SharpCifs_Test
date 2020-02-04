@@ -1,0 +1,13 @@
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\bin\Debug\netcoreapp3.1\Test.NetworkMapping.exe
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\bin\Debug\netcoreapp3.1\Test.NetworkMapping.deps.json
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\bin\Debug\netcoreapp3.1\Test.NetworkMapping.runtimeconfig.json
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\bin\Debug\netcoreapp3.1\Test.NetworkMapping.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\bin\Debug\netcoreapp3.1\Test.NetworkMapping.dll
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\bin\Debug\netcoreapp3.1\Test.NetworkMapping.pdb
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\obj\Debug\netcoreapp3.1\Test.NetworkMapping.csprojAssemblyReference.cache
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\obj\Debug\netcoreapp3.1\Test.NetworkMapping.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\obj\Debug\netcoreapp3.1\Test.NetworkMapping.AssemblyInfo.cs
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\obj\Debug\netcoreapp3.1\Test.NetworkMapping.dll
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\obj\Debug\netcoreapp3.1\Test.NetworkMapping.pdb
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\bin\Debug\netcoreapp3.1\SharpCifs.Std.dll
+C:\Users\joaog\source\repos\Test.NetworkMapping\Test.NetworkMapping\obj\Debug\netcoreapp3.1\Test.NetworkMapping.csproj.CopyComplete
